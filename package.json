@@ -1,0 +1,26 @@
+{
+  "name": "throw-next-tick",
+  "description": "Throw the error in the next tick",
+  "version": "0.1.0",
+  "author": "Denis Karabaza <denis.karabaza@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/simplesmiler/throw-next-tick/issues"
+  },
+  "homepage": "https://github.com/simplesmiler/throw-next-tick",
+  "keywords": [
+    "escape",
+    "next-tick",
+    "promise",
+    "throw"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simplesmiler/throw-next-tick"
+  },
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
